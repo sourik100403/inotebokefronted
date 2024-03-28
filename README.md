@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##backend host 
+#https://inotebackend-6wxc.onrender.com
+##frontend host
+#https://inotebokefronted-tlmf.vercel.app/
 
 ## Available Scripts
 
