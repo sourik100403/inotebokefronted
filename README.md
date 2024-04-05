@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ##backend host 
 #https://inotebackend-6wxc.onrender.com
 ##frontend host
-#https://inotebokefronted-tlmf.vercel.app/
+#https://inotebook-frontend-gray.vercel.app/login
 
 ## Available Scripts
 
